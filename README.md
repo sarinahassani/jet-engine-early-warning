@@ -125,4 +125,6 @@ Training notebooks and raw CMAPSS files live elsewhere; this repo is the inferen
 
 
 
-## Dashboard: jet-engine-early-warning-q6szn5fbxqd8c7o9uqumdo.streamlit.app
+
+## Dashboard:
+jet-engine-early-warning-q6szn5fbxqd8c7o9uqumdo.streamlit.app
